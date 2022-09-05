@@ -1,0 +1,9 @@
+.git/
+deps
+_build
+
+
+.dockerignore
+.env*
+!.env.example
+docker-compose.override.yml
